@@ -18,6 +18,7 @@ See the [Installation guide](/installation/) to install LocalAI first. **Docker 
 ## What's in This Section
 
 - **[Quickstart Guide](quickstart/)** - Get started quickly with your first API calls and model downloads
+- **[Codex in ChatGPT: Lesson 1](codex-chatgpt-lesson-1/)** - Learn from zero how to ask, iterate, and validate coding tasks with Codex
 - **[Install and Run Models](models/)** - Learn how to install, configure, and run AI models
 - **[Customize Models](customize-model/)** - Customize model configurations and prompt templates
 - **[Container Images Reference](container-images/)** - Complete reference for available Docker images
